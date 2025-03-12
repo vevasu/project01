@@ -1,0 +1,8 @@
+streamlit
+numpy
+pillow
+scipy
+matplotlib
+opencv-python
+scikit-learn
+mediapipe
